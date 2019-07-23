@@ -1,16 +1,16 @@
 {
   "files": {
-    "main.css": "/main.css",
-    "main.js": "/main.50f3c9ccab492ec18289.bundle.js",
-    "main.css.map": "/main.css.map",
-    "main.js.map": "/main.50f3c9ccab492ec18289.bundle.js.map",
-    "runtime~main.js": "/runtime~main.50f3c9ccab492ec18289.bundle.js",
-    "runtime~main.js.map": "/runtime~main.50f3c9ccab492ec18289.bundle.js.map",
-    "vendors~main.js": "/vendors~main.50f3c9ccab492ec18289.bundle.js",
-    "vendors~main.js.map": "/vendors~main.50f3c9ccab492ec18289.bundle.js.map",
-    "iframe.html": "/iframe.html",
-    "precache-manifest.42cd1c04b1f4773dc58b1183eca66eae.js": "/precache-manifest.42cd1c04b1f4773dc58b1183eca66eae.js",
-    "service-worker.js": "/service-worker.js",
-    "static/media/logo.png": "/static/media/logo.2963dcbe.png"
+    "main.css": "./main.css",
+    "main.js": "./main.6ef8821252bce336eab4.bundle.js",
+    "main.css.map": "./main.css.map",
+    "main.js.map": "./main.6ef8821252bce336eab4.bundle.js.map",
+    "runtime~main.js": "./runtime~main.6ef8821252bce336eab4.bundle.js",
+    "runtime~main.js.map": "./runtime~main.6ef8821252bce336eab4.bundle.js.map",
+    "vendors~main.js": "./vendors~main.6ef8821252bce336eab4.bundle.js",
+    "vendors~main.js.map": "./vendors~main.6ef8821252bce336eab4.bundle.js.map",
+    "iframe.html": "./iframe.html",
+    "precache-manifest.50cd60d98dcce7ade89fdd4e0e98af03.js": "./precache-manifest.50cd60d98dcce7ade89fdd4e0e98af03.js",
+    "service-worker.js": "./service-worker.js",
+    "static/media/logo.png": "./static/media/logo.2963dcbe.png"
   }
 }
